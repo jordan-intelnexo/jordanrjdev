@@ -1,4 +1,4 @@
-<div style="display:flex;align-items:flex-start;"><h2 style="margin-right:10px;">Hi, I'm Jordan Jaramillo! </h2><img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/source.gif" width="50" ></div>
+<h2 style="margin-right:10px;">Hi, I'm Jordan Jaramillo! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/source.gif" width="50" > </h2>
 
 <p>Studying at <a href="https://itsgg.edu.ec/">ITSGG</a></p>
 
