@@ -4,7 +4,7 @@
 <p><em>Software developer at <a href="https://intelnexo.com/">Intelnexo S.A.</a></em></p>
 
 [![Twitter: jordanrjdev](https://img.shields.io/twitter/follow/jordanrjdev?style=social)](https://twitter.com/jordanrjdev)
-[![Linkedin: jordanrjdev](https://img.shields.io/badge/-jordanrjdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordanrjdev/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: jordanrjdev](https://img.shields.io/badge/-jordanrjdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordanrjdev/)](https://www.linkedin.com/in/jordanrjdev/)
 [![GitHub Jordan](https://img.shields.io/github/followers/jordanrjdev?label=follow&style=social)](https://github.com/jordanrjdev)
 
 I learned programming since I was 15 years old, in my free time I write small publications and tutorials in DEV Comunity to help people who want to enter the world of programming.
